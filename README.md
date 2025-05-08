@@ -6,5 +6,5 @@
 官方开发文档 https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/send.html#%E7%BE%A4%E8%81%8A
 
 
-可以进群交流  QQ群：1019955788
+可以进裙交流  QQ群：1019955788
 ![img_1.png](img_1.png)
